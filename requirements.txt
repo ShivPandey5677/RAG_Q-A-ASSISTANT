@@ -5,5 +5,5 @@ langchain_experimental
 openai
 faiss-cpu
 tiktoken
-pythin-dotenv
+python-dotenv
 requests
