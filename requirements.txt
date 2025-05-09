@@ -1,9 +1,10 @@
 streamlit
 langchain
-langchain_community
-langchain_experimental
+langchain-community
+langchain-experimental
 openai
 faiss-cpu
 tiktoken
 python-dotenv
 requests
+sentence-transformers
